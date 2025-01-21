@@ -1,5 +1,5 @@
 let products: Product[] = [ 
-    { id: "1", image: "image.png", title: "Burger", price: 12.99, detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { id: "2", image: "image.png", title: "Pizza", price: 15.99, detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-    { id: "3", image: "image.png", title: "Pasta", price: 10.99, detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+    { id: "1", image: "image.png", title: "Chair", price: 12.99, detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+    { id: "2", image: "image.png", title: "Office Chair", price: 15.99, detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+    { id: "3", image: "image.png", title: "Modern cozy", price: 10.99, detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
 ];
